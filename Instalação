@@ -1,0 +1,16 @@
+Pacotes:
+pip install selenium
+pip install behave
+pip install requests
+pip install webdriver_manager
+
+Requirements Commands:
+pip freeze > requirements.txt #importar dependencias para o arquivo requirements
+pip install -r requirements.txt #instalar dependencias do arquivo requirements
+pip unistall -r requirements.txt #desintalar  dependencias do arquivo requirements
+
+Referências:
+https://github.com/SergeyPirogov/webdriver_manager
+https://github.com/SeleniumHQ/selenium
+https://github.com/behave/behave
+https://github.com/psf/requests
